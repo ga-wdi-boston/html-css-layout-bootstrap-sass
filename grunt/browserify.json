@@ -3,7 +3,10 @@
     "src": ["<%= paths.source %>"],
     "dest": "app.js",
     "options": {
-      "require": ["jquery"]
+      "require": [
+        "jquery",
+        "bootstrap"
+      ]
     }
   },
   "specs": {
