@@ -25,6 +25,9 @@ To add bootstrap to an existing project:
 
 ## Bonus
 
+For an extra challenge, make the header and footer sticky, even when the content doesn't fill the page.
+
+Next, try using JavaScript to have the header and footer hide on `scrolldown` and display on `scrollup`.
 
 ## Notes
 
