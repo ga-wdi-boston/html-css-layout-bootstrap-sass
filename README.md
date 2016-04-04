@@ -105,12 +105,13 @@ Follow along as I use mixins to make our grid system more semantic.
   </div>
 </div>
 
+This is HMTL5, its makes our layout much more clean.
 
 <div class="container">
-  <div class="article">
-    <div class="main-content">.col-md-8</div>
-    <div class="right-sidebar">.col-md-4</div>
-  </div>
+  <article>
+    <main><p>.col-md-8</p></main>
+    <seciton><p>.col-md-4</p><section>
+  </article>
 </div>
 ```
 
@@ -118,8 +119,8 @@ Follow along as I use mixins to make our grid system more semantic.
 
 1.  Using the code I used above in your `index.scss` file refactor on your own.
 1.  Write your own mobile ready page using Bootstrap-Sass classes.
-1.  Refactor your HTML to be more semantic (copy/paste your previous code and
-    refactor it using bootstrap-sass to make it semantic).
+1.  Refactor your HTML from earlier to be more semantic (copy/paste your
+previous code and refactor it using bootstrap-sass to make it semantic).
 
 ## Useful Resources
 
