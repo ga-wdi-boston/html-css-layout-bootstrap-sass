@@ -46,9 +46,13 @@ In squads closely inspect the following site list.  Keeping these questions in
 mind please write down your thoughts and we will discuss them as a class.
 
 1.  How are the the pages similar?
+
 1.  How is the HTML similar among the pages?
+
 1.  As you interact with the site how does the DOM change (if at all)?
+
 1.  How are elements on the pages horizontally arranged?
+
 1.  Notice any similarities among bootstrap pages in general?
 
 
