@@ -99,19 +99,18 @@ Follow along as I use mixins to make our grid system more semantic.
 
 ```html
 <div class="container">
-  <div class="row article">
+  <div class="row">
     <div class="col-md-8">.col-md-8</div>
     <div class="col-md-4">.col-md-4</div>
   </div>
 </div>
 
-This is HMTL5, its makes our layout much more clean.
-
 <div class="container">
-  <article>
-    <main><p>.col-md-8</p></main>
-    <seciton><p>.col-md-4</p><section>
-  </article>
+  This is HMTL5, its makes our layout much more clean.
+  <section>
+    <article>Should be .col-md-8</article>
+    <article>Should be .col-md-4</article>
+  </section>
 </div>
 ```
 
