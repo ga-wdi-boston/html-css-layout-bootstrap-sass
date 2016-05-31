@@ -40,6 +40,11 @@ than 38K forks.
 
 [Bootstrap Wiki](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
 
+Bootstrap is built on a grib like design that consists of rows and columns, like
+a table. In each row, Bootstrap is utilized through a 12 column system.
+
+![image](https://cloud.githubusercontent.com/assets/8379295/15674757/818a4ff2-270c-11e6-8ad3-9d5825f0c188.png)
+
 ## Lab: Review Sites Made With Bootstrap
 
 In squads closely inspect the following site list.  Keeping these questions in
