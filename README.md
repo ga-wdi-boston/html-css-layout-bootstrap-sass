@@ -132,6 +132,7 @@ previous code and refactor it using bootstrap-sass to make it semantic).
 -   [Bootstrap Grid Tricks](http://willschenk.com/bootstrap-advanced-grid-tricks/)
 -   [Hongkait Grid Tricks](http://www.hongkiat.com/blog/bootstrap-and-sass/)
 -   [Bootstrap Documentation](http://getbootstrap.com/)
+-   [Semantic HTML](http://stackoverflow.com/a/24765186/402618/)
 
 ## [License](LICENSE)
 
