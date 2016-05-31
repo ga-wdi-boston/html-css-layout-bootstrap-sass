@@ -40,10 +40,10 @@ than 38K forks.
 
 [Bootstrap Wiki](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
 
-Bootstrap is built on a grib like design that consists of rows and columns, like
-a table. In each row, Bootstrap is utilized through a 12 column system.
+Bootstrap is built on a grid like design that consists of rows and columns, like
+a table. In each row, Bootstrap utilizes a 12 column system.
 
-![image](https://cloud.githubusercontent.com/assets/8379295/15674757/818a4ff2-270c-11e6-8ad3-9d5825f0c188.png)
+![Bootstrap Grid Example](https://cloud.githubusercontent.com/assets/8379295/15674757/818a4ff2-270c-11e6-8ad3-9d5825f0c188.png)
 
 ## Lab: Review Sites Made With Bootstrap
 
@@ -104,7 +104,7 @@ Follow along as I use mixins to make our grid system more semantic.
 
 ```html
 <div class="container">
-  <div class="row">
+  <div class="row article">
     <div class="col-md-8">.col-md-8</div>
     <div class="col-md-4">.col-md-4</div>
   </div>
@@ -112,10 +112,10 @@ Follow along as I use mixins to make our grid system more semantic.
 
 <div class="container">
   This is HMTL5, its makes our layout much more clean.
-  <section>
-    <article>Should be .col-md-8</article>
-    <article>Should be .col-md-4</article>
-  </section>
+  <article>
+    <section>Should be .col-md-8</section>
+    <section>Should be .col-md-4</section>
+  </article>
 </div>
 ```
 
