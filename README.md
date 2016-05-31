@@ -40,6 +40,11 @@ than 38K forks.
 
 [Bootstrap Wiki](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
 
+Bootstrap is built on a grid like design that consists of rows and columns, like
+a table. In each row, Bootstrap utilizes a 12 column system.
+
+![Bootstrap Grid Example](https://cloud.githubusercontent.com/assets/8379295/15674757/818a4ff2-270c-11e6-8ad3-9d5825f0c188.png)
+
 ## Lab: Review Sites Made With Bootstrap
 
 In squads closely inspect the following site list.  Keeping these questions in
@@ -105,12 +110,11 @@ Follow along as I use mixins to make our grid system more semantic.
   </div>
 </div>
 
-This is HMTL5, its makes our layout much more clean.
-
 <div class="container">
+  This is HMTL5, its makes our layout much more clean.
   <article>
-    <main><p>.col-md-8</p></main>
-    <seciton><p>.col-md-4</p><section>
+    <section>Should be .col-md-8</section>
+    <section>Should be .col-md-4</section>
   </article>
 </div>
 ```
@@ -128,6 +132,7 @@ previous code and refactor it using bootstrap-sass to make it semantic).
 -   [Bootstrap Grid Tricks](http://willschenk.com/bootstrap-advanced-grid-tricks/)
 -   [Hongkait Grid Tricks](http://www.hongkiat.com/blog/bootstrap-and-sass/)
 -   [Bootstrap Documentation](http://getbootstrap.com/)
+-   [Semantic HTML](http://stackoverflow.com/a/24765186/402618/)
 
 ## [License](LICENSE)
 
