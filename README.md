@@ -97,34 +97,6 @@ On your own:
 -   Refrencing the Bootstrap documentation add a navbar to your page.
 -   Move the button that opens up the modal to the navbar.
 
-## Demo: Using `bootstrap-sass` for Semantic Markup
-
-Follow along as I use mixins to make our grid system more semantic.
-
-```html
-<div class="container">
-  <div class="row article">
-    <div class="col-md-8">.col-md-8</div>
-    <div class="col-md-4">.col-md-4</div>
-  </div>
-</div>
-
-<div class="container">
-  This is HMTL5, its makes our layout much more clean.
-  <article>
-    <section>Should be .col-md-8</section>
-    <section>Should be .col-md-4</section>
-  </article>
-</div>
-```
-
-## Lab: Semantic Markup
-
-1.  Using the code I used above in your `index.scss` file refactor on your own.
-1.  Write your own mobile ready page using Bootstrap-Sass classes.
-1.  Refactor your HTML from earlier to be more semantic (copy/paste your
-previous code and refactor it using bootstrap-sass to make it semantic).
-
 ## Useful Resources
 
 -   [Sitepoint Sass Mixins](http://www.sitepoint.com/5-useful-sass-mixins-bootstrap/)
