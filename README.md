@@ -62,7 +62,6 @@ mind please write down your thoughts and we will discuss them as a class.
 -   [UI Viking](http://uiviking.com/)
 -   [MintVine](https://mintvine.com/)
 -   [The Tool Smith](http://thetoolsmith.com/)
--   [Fansoro](http://fansoro.org/)
 -   [Pave](http://pavingtheway.net/)
 
 ## Bootstrap Documentation
