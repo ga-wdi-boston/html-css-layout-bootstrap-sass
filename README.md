@@ -104,6 +104,7 @@ On your own:
 -   [Hongkait Grid Tricks](http://www.hongkiat.com/blog/bootstrap-and-sass/)
 -   [Bootstrap Documentation](http://getbootstrap.com/)
 -   [Semantic HTML](http://stackoverflow.com/a/24765186/402618/)
+-   [Improve Your Markup by Extending Classes](https://coderwall.com/p/wixovg/bootstrap-without-all-the-debt)
 
 ## [License](LICENSE)
 
