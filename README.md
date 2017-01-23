@@ -13,8 +13,6 @@ By the end of this lesson, students should be able to:
 
 -   Create mobile-first, responsive site layouts using
     [bootstrap](http://getbootstrap.com).
--   Maintain semantic HTML markup using Sass mixins provided by
-    `bootstrap-sass`.
 -   Reference bootstrap documentation.
 -   Add a modal to a front end project.
 
