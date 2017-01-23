@@ -73,6 +73,10 @@ For components and jQuery plugins always reference the Bootstrap docs.
 
  [Bootstrap Documentation](http://getbootstrap.com/)
 
+Do not use premade bootstrap templates.
+They often have alternate versions of jQuery or Bootstrap which are different
+than the versions we will be using to practice.
+
 ## Lab: 12-Column Grid
 
 Lets get some firsthand experience writing Boootstrap it.  Using the
