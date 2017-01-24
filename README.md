@@ -13,8 +13,6 @@ By the end of this lesson, students should be able to:
 
 -   Create mobile-first, responsive site layouts using
     [bootstrap](http://getbootstrap.com).
--   Maintain semantic HTML markup using Sass mixins provided by
-    `bootstrap-sass`.
 -   Reference bootstrap documentation.
 -   Add a modal to a front end project.
 
@@ -64,7 +62,6 @@ mind please write down your thoughts and we will discuss them as a class.
 -   [UI Viking](http://uiviking.com/)
 -   [MintVine](https://mintvine.com/)
 -   [The Tool Smith](http://thetoolsmith.com/)
--   [Fansoro](http://fansoro.org/)
 -   [Pave](http://pavingtheway.net/)
 
 ## Bootstrap Documentation
@@ -72,6 +69,10 @@ mind please write down your thoughts and we will discuss them as a class.
 For components and jQuery plugins always reference the Bootstrap docs.
 
  [Bootstrap Documentation](http://getbootstrap.com/)
+
+Do not use premade bootstrap templates.
+They often have alternate versions of jQuery or Bootstrap which are different
+than the versions we will be using to practice.
 
 ## Lab: 12-Column Grid
 
@@ -104,9 +105,10 @@ On your own:
 -   [Hongkait Grid Tricks](http://www.hongkiat.com/blog/bootstrap-and-sass/)
 -   [Bootstrap Documentation](http://getbootstrap.com/)
 -   [Semantic HTML](http://stackoverflow.com/a/24765186/402618/)
+-   [Improve Your Markup by Extending Classes](https://coderwall.com/p/wixovg/bootstrap-without-all-the-debt)
 
 ## [License](LICENSE)
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
 1.  All software code is licensed under GNU GPLv3. For commercial use or
-alternative licensing, please contact legal@ga.co.
+    alternative licensing, please contact legal@ga.co.
