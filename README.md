@@ -9,7 +9,7 @@
 
 ## Objectives
 
-By the end of this lesson, students should be able to:
+By the end of this, developers should be able to:
 
 -   Create mobile-first, responsive site layouts using
     [bootstrap](http://getbootstrap.com).
