@@ -30,8 +30,10 @@ typography, forms, buttons, navigation and other interface components, as
 well as optional JavaScript extensions. It aims to ease the development of
 dynamic websites and web applications.
 
-Bootstrap is a front end framework, that is, an interface for the user, unlike
-the server-side code which resides on the "back end" or server.
+"Bootstrap is the most popular HTML, CSS, and JS framework for developing
+responsive, mobile first projects on the web." - bootstrap.com
+
+Download Bootstrap
 
 Bootstrap is the most-starred project on GitHub, with over 90K stars and more
 than 38K forks.
