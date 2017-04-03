@@ -33,8 +33,6 @@ dynamic websites and web applications.
 "Bootstrap is the most popular HTML, CSS, and JS framework for developing
 responsive, mobile first projects on the web." - bootstrap.com
 
-Download Bootstrap
-
 Bootstrap is the most-starred project on GitHub, with over 90K stars and more
 than 38K forks.
 
