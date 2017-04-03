@@ -9,6 +9,7 @@ $(() => {
     event.preventDefault()
     const input = $('#name').val()
     console.log(input)
+    $('#myModal').modal('hide')
   })
 })
 
