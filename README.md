@@ -78,8 +78,8 @@ practice.
 
 Lets get some firsthand experience writing Boootstrap it.  Using the
 documentation we discussed earlier write a simple grid in the `index.html` file
-located in this repo.  Make use of col-xs-#, col-sm-#, col-md-#, and col-lg-#. Try making an
-evenly spaced 3x3 grid.
+located in this repo.  Make use of col-xs-#, col-sm-#, col-md-#, and col-lg-#.
+Try making an evenly spaced 3x3 grid.
 
 -   Place your column divs within a row div.
 -   Place your row divs within a container div
