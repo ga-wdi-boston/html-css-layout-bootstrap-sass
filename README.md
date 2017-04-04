@@ -9,7 +9,7 @@
 
 ## Objectives
 
-By the end of this lesson, students should be able to:
+By the end of this, developers should be able to:
 
 -   Create mobile-first, responsive site layouts using
     [bootstrap](http://getbootstrap.com).
@@ -30,8 +30,8 @@ typography, forms, buttons, navigation and other interface components, as
 well as optional JavaScript extensions. It aims to ease the development of
 dynamic websites and web applications.
 
-Bootstrap is a front end framework, that is, an interface for the user, unlike
-the server-side code which resides on the "back end" or server.
+"Bootstrap is the most popular HTML, CSS, and JS framework for developing
+responsive, mobile first projects on the web." - bootstrap.com
 
 Bootstrap is the most-starred project on GitHub, with over 90K stars and more
 than 38K forks.
@@ -70,16 +70,16 @@ For components and jQuery plugins always reference the Bootstrap docs.
 
  [Bootstrap Documentation](http://getbootstrap.com/)
 
-Do not use premade bootstrap templates.
-They often have alternate versions of jQuery or Bootstrap which are different
-than the versions we will be using to practice.
+Do not use premade bootstrap templates. They often have alternate versions of
+jQuery or Bootstrap which are different than the versions we will be using to
+practice.
 
 ## Lab: 12-Column Grid
 
 Lets get some firsthand experience writing Boootstrap it.  Using the
 documentation we discussed earlier write a simple grid in the `index.html` file
-located in this repo.  Make use of col-xs, sm, md, lg and xl. Try making an
-evenly spaced 3x3 grid.
+located in this repo.  Make use of col-xs-#, col-sm-#, col-md-#, and col-lg-#.
+Try making an evenly spaced 3x3 grid.
 
 -   Place your column divs within a row div.
 -   Place your row divs within a container div
