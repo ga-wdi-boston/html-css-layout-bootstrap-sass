@@ -74,20 +74,25 @@ Do not use premade bootstrap templates. They often have alternate versions of
 jQuery or Bootstrap which are different than the versions we will be using to
 practice.
 
-## Lab: 12-Column Grid
+## Demo: Mobile-first Layout
 
 Lets get some firsthand experience writing Boootstrap it.  Using the
 documentation we discussed earlier write a simple grid in the `index.html` file
 located in this repo.  Make use of col-xs-#, col-sm-#, col-md-#, and col-lg-#.
+
+## Lab: Laptop/Desktop Layout
+
 Try making an evenly spaced 3x3 grid.
 
 -   Place your column divs within a row div.
 -   Place your row divs within a container div
 -   Experiment with various viewport sizes
 
-## Lab: Modals and More
+## Code-along: Modals and More
 
 Follow along as I add a bootstrap modal to our current sandbox page.
+
+## Lab: Modals and More
 
 On your own:
 
